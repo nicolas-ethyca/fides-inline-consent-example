@@ -1,4 +1,4 @@
-# Fides Consent Process with API Calls
+# Fides Accord Example - Consent Process with API Calls
 
 ![Fides banner](https://github.com/ethyca/fides/blob/main/docs/fides/docs/img/fides-banner.png "Fides banner")
 
