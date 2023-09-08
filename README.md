@@ -57,7 +57,7 @@ For auditability and compliance, all user interactions related to their consent 
 ### Documentation & Further Reading
 
 * [Fides official documentation](https://docs.ethyca.com)
-* [Fides API references](https://docs.ethyca.com/fides/api)
+* [Fides API references](https://docs.ethyca.com/dev-docs/api/overview)
 
 ### Support & Interaction
 
